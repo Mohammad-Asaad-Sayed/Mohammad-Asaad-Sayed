@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **programming**
 
-- I’m looking to collaborate on **projects related to robotics**
+- 🤝 I’m looking to collaborate on **projects related to robotics**
 
-- 🤝 I’m looking for help with **domains related cybersecurity as well**
+- 🙌 I’m looking for help with **domains related cybersecurity as well**
 
 - 💬 Ask me about **robotics**
 
@@ -59,4 +59,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammad-asaad-sayed&show_icons=true&locale=en" alt="mohammad-asaad-sayed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-asaad-sayed&" alt="mohammad-asaad-sayed" /></p>
-

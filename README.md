@@ -18,8 +18,14 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mohammad Asaad Abrar Sayed</h1>
 <h3 align="center">A passionate engineer from India</h3>
 
-# 💫 About Me:
-🔭 I’m currently working on projects related to robotics & iot<br>🤝 I’m looking to collaborate on projects related to robotics,cybersecurity & iot<br>🙌 I’m looking for help with domains related cybersecurity as well<br>🌱 I’m currently learning programming<br>💬 Ask me about robotic arms<br>⚡ Fun fact I am philosophical in nature & posess a minimalist tone of personality
+### 💫 About Me
+
+- 🔭 **AI Product Mgmt. Consultant**
+- 🌱 Passionate about **AI, Product Intelligence, GTM and Business Process Transformation**
+- 💡 I bridge the gap between technology and business — turning complex problems into scalable AI-powered solutions
+- 🤝 Open to collaborations on **AI Products, PLM systems, Community, FOSS** and intelligent automation
+- 💬 Ask me about **Product Management, AI implementation, FOSS, Community** or **Robotic Arms** (old love ❤️)
+- ⚡ Fun Fact: Philosophical by nature with a minimalist approach to life and work
 
 
 ## 🌐 Socials:
